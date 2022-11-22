@@ -1,0 +1,70 @@
+The information for book 1 is: 
+H. M. Deitel........C++ How to Program................................ 130895717
+Book 1 has ISBN: 130895717
+
+The information for book 2 is: 
+Judy Bishop.........Java Gently....................................... 201593998
+Book 2 has ISBN: 201593998
+
+The information for book 3 is: 
+Jeff Salvage........The C++ Coach..................................... 201702894
+Book 3 has ISBN: 201702894
+
+The information for book 4 is: 
+Thomas Wu...........Object-Oriented Programming with Java............. 256254621
+Book 4 has ISBN: 256254621
+
+The information for book 5 is: 
+Cay Horstmann.......Computing Concepts with C++....................... 471164372
+Book 5 has ISBN: 471164372
+
+The information for book 6 is: 
+Gary Bronson........Program Development and Design.................... 534371302
+Book 6 has ISBN: 534371302
+
+The information for book 7 is: 
+Joyce Farrell.......Object-Oriented Programming....................... 619033614
+Book 7 has ISBN: 619033614
+
+The information for book 8 is: 
+D. S. Malik.........C++ Programming................................... 619062134
+Book 8 has ISBN: 619062134
+
+The information for book 9 is: 
+James Roberge.......Introduction to Programming in C++................ 669347183
+Book 9 has ISBN: 669347183
+
+The information for book 10 is: 
+Nell Dale...........C++ Plus Data Structures.......................... 763714704
+Book 10 has ISBN: 763714704
+
+The information for book 2 is: 
+Judy Bishop.........Java Gently....................................... 201593998
+Book 2 has ISBN: 201593998
+
+ISBN: 888899999 not found.
+
+The information for book 10 is: 
+Nell Dale...........C++ Plus Data Structures.......................... 763714704
+Book 10 has ISBN: 763714704
+
+ISBN: 111122222 not found.
+
+The information for book 4 is: 
+Thomas Wu...........Object-Oriented Programming with Java............. 256254621
+Book 4 has ISBN: 256254621
+
+The information for book 1 is: 
+H. M. Deitel........C++ How to Program................................ 130895717
+Book 1 has ISBN: 130895717
+
+ISBN: 488881111 not found.
+
+The information for book 6 is: 
+Gary Bronson........Program Development and Design.................... 534371302
+Book 6 has ISBN: 534371302
+
+The information for book 7 is: 
+Joyce Farrell.......Object-Oriented Programming....................... 619033614
+Book 7 has ISBN: 619033614
+
